@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/population-trend/static/css/main.39322297.css",
+    "main.js": "/population-trend/static/js/main.e751ec76.js",
+    "index.html": "/population-trend/index.html",
+    "main.39322297.css.map": "/population-trend/static/css/main.39322297.css.map",
+    "main.e751ec76.js.map": "/population-trend/static/js/main.e751ec76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39322297.css",
+    "static/js/main.e751ec76.js"
+  ]
+}
